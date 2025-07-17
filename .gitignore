@@ -1,0 +1,10 @@
+# Compiled files
+*.o
+octree_parallel
+
+# Data files
+*.txt
+*.png
+
+# Virtual environment
+venv/

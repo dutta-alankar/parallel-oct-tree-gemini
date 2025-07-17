@@ -1,10 +1,10 @@
 # Compiled files
 *.o
 octree_parallel
+quadtree_parallel
 
 # Data files
 *.txt
-*.png
 
 # Virtual environment
 venv/

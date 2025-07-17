@@ -3,7 +3,7 @@
 #include <string.h>
 #include <mpi.h>
 
-#define MAX_POINTS_PER_NODE 4
+#define MAX_POINTS_PER_NODE 1
 
 // Represents a 2D point
 typedef struct {
